@@ -1,1 +1,1 @@
-# python3-tkinter-calculator-2.0
+# Tkinter Calculator 2.0
